@@ -23,6 +23,7 @@ The application was containerized using Nginx. The dist folder contents were cop
 <img width="1906" height="1031" alt="image" src="https://github.com/user-attachments/assets/13d99923-7235-437c-9291-8d0f20e40a15" />
 
 docker build -t brain-tasks-app .
+
 docker run -p 3000:3000 brain-tasks-app
 
 **5. Kubernetes Deployment**
