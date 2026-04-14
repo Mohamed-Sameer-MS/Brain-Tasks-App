@@ -33,6 +33,7 @@ Deployment and Service YAML files were created and applied using kubectl.
 
 
 kubectl apply -f deployment.yaml
+
 kubectl apply -f service.yaml
 
 **6. CI/CD Pipeline**
@@ -48,5 +49,5 @@ Logs were monitored using AWS CloudWatch and kubectl logs for Kubernetes pods.
 <img width="630" height="117" alt="image" src="https://github.com/user-attachments/assets/665d9901-aadc-4894-bdb7-ff7f236d4fe0" />
 
 
-**9. Conclusion**
+**8. Conclusion**
 The application was successfully deployed using Docker and Kubernetes with CI/CD automation and monitoring.
