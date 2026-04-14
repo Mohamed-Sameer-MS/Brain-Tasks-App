@@ -2,6 +2,7 @@
 
 **1. Project Overview**
 This project demonstrates the deployment of a static web application using Docker, Kubernetes (EKS), and AWS CI/CD services.
+<img width="1909" height="873" alt="image" src="https://github.com/user-attachments/assets/a9c3f663-d25b-4ac2-a684-5222438b04c9" />
 
 
 **2. Technologies Used**
@@ -51,3 +52,7 @@ Logs were monitored using AWS CloudWatch and kubectl logs for Kubernetes pods.
 
 **8. Conclusion**
 The application was successfully deployed using Docker and Kubernetes with CI/CD automation and monitoring.
+<img width="1605" height="475" alt="image" src="https://github.com/user-attachments/assets/953fd2e5-2ea8-4f07-ae40-89ad40f3b522" />
+
+<img width="1882" height="882" alt="image" src="https://github.com/user-attachments/assets/7dfa25ba-4828-4252-9756-909fa369509e" />
+
