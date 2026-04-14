@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Installing docker
+
+  build:
+    commands:
+      - docker build -t brain-tasks-app .
+
+  post_build:
+    commands:
+      - echo Build complete
